@@ -1,0 +1,10 @@
+.vscode/
+
+# FVM Version Cache
+.fvm/
+
+# Mason
+.mason/
+
+# Lib Test
+lib/

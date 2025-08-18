@@ -1,0 +1,9 @@
+bricks:
+  model:
+    path: "bricks\\model"
+  entity:
+    path: "bricks\\entity"
+  local_data_source:
+    path: "bricks\\local_data_source"
+  remote_data_source:
+    path: "bricks\\remote_data_source"

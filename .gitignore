@@ -7,4 +7,4 @@
 .mason/
 
 # Lib Test
-lib/
+/lib/

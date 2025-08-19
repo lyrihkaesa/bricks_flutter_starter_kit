@@ -11,3 +11,5 @@ bricks:
     path: "bricks\\repository"
   usecase:
     path: "bricks\\usecase"
+  core_error:
+    path: "bricks\\core_error"

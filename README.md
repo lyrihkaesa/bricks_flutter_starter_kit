@@ -220,7 +220,7 @@ mason add repository --path=bricks/repository
 
 ---
 
-### 5. Usecase
+### 6. Usecase
 
 Install:
 
@@ -238,6 +238,28 @@ Development lokal:
 
 ```bash
 mason add usecase --path=bricks/usecase
+```
+
+---
+
+### 7. core_error
+
+Install:
+
+```bash
+mason add core_error --git-url https://github.com/lyrihkaesa/bricks_flutter_starter_kit.git --git-path bricks/core_error
+```
+
+Generate file:
+
+```bash
+mason make core_error
+```
+
+Development lokal:
+
+```bash
+mason add core_error --path=bricks/core_error
 ```
 
 ---

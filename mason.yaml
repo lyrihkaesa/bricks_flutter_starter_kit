@@ -7,3 +7,5 @@ bricks:
     path: "bricks\\local_data_source"
   remote_data_source:
     path: "bricks\\remote_data_source"
+  repository:
+    path: "bricks\\repository"

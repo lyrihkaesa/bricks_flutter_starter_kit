@@ -75,3 +75,35 @@ mason make local_data_source
 ```bash
 mason add local_data_source --path=bricks/local_data_source
 ```
+
+## Repository
+
+```bash
+mason add repository --git-url https://github.com/lyrihkaesa/bricks_flutter_starter_kit.git --git-path bricks/repository
+```
+
+```bash
+mason make repository
+```
+
+- Untuk development:
+
+```bash
+mason add repository --path=bricks/repository
+```
+
+---
+
+## Development
+
+Untuk membuat brick baru:
+
+```bash
+mason new repository --output-dir=bricks
+```
+
+Menguji `mason make` diatas, tambahkan dulu ke `mason.yaml`
+
+```bash
+mason add repository --path=bricks/repository
+```

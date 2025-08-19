@@ -13,3 +13,5 @@ bricks:
     path: "bricks\\usecase"
   core_error:
     path: "bricks\\core_error"
+  remote_datasource:
+    path: "bricks\\remote_datasource"

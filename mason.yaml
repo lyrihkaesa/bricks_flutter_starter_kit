@@ -15,3 +15,5 @@ bricks:
     path: "bricks\\core_error"
   remote_datasource:
     path: "bricks\\remote_datasource"
+  local_datasource:
+    path: "bricks\\local_datasource"

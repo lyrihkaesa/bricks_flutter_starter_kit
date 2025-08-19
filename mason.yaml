@@ -9,3 +9,5 @@ bricks:
     path: "bricks\\remote_data_source"
   repository:
     path: "bricks\\repository"
+  usecase:
+    path: "bricks\\usecase"

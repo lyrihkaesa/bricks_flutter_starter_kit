@@ -220,6 +220,28 @@ mason add repository --path=bricks/repository
 
 ---
 
+### 5. Usecase
+
+Install:
+
+```bash
+mason add usecase --git-url https://github.com/lyrihkaesa/bricks_flutter_starter_kit.git --git-path bricks/usecase
+```
+
+Generate file:
+
+```bash
+mason make usecase
+```
+
+Development lokal:
+
+```bash
+mason add usecase --path=bricks/usecase
+```
+
+---
+
 ## 🚧 Development
 
 Buat brick baru:

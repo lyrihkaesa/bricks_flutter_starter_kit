@@ -159,19 +159,19 @@ mason add entity --path=bricks/entity
 Install:
 
 ```bash
-mason add remote_data_source --git-url https://github.com/lyrihkaesa/bricks_flutter_starter_kit.git --git-path bricks/remote_data_source
+mason add remote_datasource --git-url https://github.com/lyrihkaesa/bricks_flutter_starter_kit.git --git-path bricks/remote_datasource
 ```
 
 Generate file:
 
 ```bash
-mason make remote_data_source
+mason make remote_datasource
 ```
 
 Development lokal:
 
 ```bash
-mason add remote_data_source --path=bricks/remote_data_source
+mason add remote_datasource --path=bricks/remote_datasource
 ```
 
 ---
@@ -181,19 +181,19 @@ mason add remote_data_source --path=bricks/remote_data_source
 Install:
 
 ```bash
-mason add local_data_source --git-url https://github.com/lyrihkaesa/bricks_flutter_starter_kit.git --git-path bricks/local_data_source
+mason add local_datasource --git-url https://github.com/lyrihkaesa/bricks_flutter_starter_kit.git --git-path bricks/local_datasource
 ```
 
 Generate file:
 
 ```bash
-mason make local_data_source
+mason make local_datasource
 ```
 
 Development lokal:
 
 ```bash
-mason add local_data_source --path=bricks/local_data_source
+mason add local_datasource --path=bricks/local_datasource
 ```
 
 ---

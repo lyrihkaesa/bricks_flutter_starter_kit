@@ -17,3 +17,5 @@ bricks:
     path: "bricks\\remote_datasource"
   local_datasource:
     path: "bricks\\local_datasource"
+  bloc:
+    path: "bricks\\bloc"

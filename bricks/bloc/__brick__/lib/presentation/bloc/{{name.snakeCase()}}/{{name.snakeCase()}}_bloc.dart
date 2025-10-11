@@ -10,7 +10,7 @@ class {{name.pascalCase()}}Bloc extends Bloc<{{name.pascalCase()}}Event, {{name.
     on<_Started>(_onStarted);
   }
 
-   Future<void> _onStarted(_Started event, Emitter<AbsentFormState> emit) async {}
+   Future<void> _onStarted(_Started event, Emitter<{{name.pascalCase()}}State> emit) async {}
 }
 
 
